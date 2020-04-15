@@ -16,21 +16,21 @@
 
 def speak_to_grandma
   if I LOVE YOU GRANDMA!
-    puts "I LOVE YOU TOO PUMPKIN!"
+    return "I LOVE YOU TOO PUMPKIN!"
     
     elsif Hi Nana, how are you?
-    puts "HUH?! SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
     
     elsif Hi!
-    puts "HUH?! SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
     
     elsif WHAT DID YOU EAT TODAY?
-    puts "NO, NOT SINCE 1938!"
+    return "NO, NOT SINCE 1938!"
     
     elsif WHAT?
-    puts "NO, NOT SINCE 1938!"
+    return "NO, NOT SINCE 1938!"
     
   else
-    puts "NO, NOT SINCE 1938!"
+    return "NO, NOT SINCE 1938!"
     
   speak_to_grandma
