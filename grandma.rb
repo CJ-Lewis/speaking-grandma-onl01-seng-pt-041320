@@ -25,3 +25,4 @@ def speak_to_grandma
     puts "HUH?! SPEAK UP, SONNY!"
     
     elsif WHAT DID YOU EAT TODAY?
+    puts
