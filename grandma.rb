@@ -18,10 +18,10 @@ def speak_to_grandma
   if I LOVE YOU GRANDMA!
     puts "I LOVE YOU TOO PUMPKIN!"
     
-    elsif "Hi Nana, how are you?"
+    elsif Hi Nana, how are you?
     puts "HUH?! SPEAK UP, SONNY!"
     
-    elsif "Hi!"
+    elsif Hi!
     puts "HUH?! SPEAK UP, SONNY!"
     
-    elsif ""
+    elsif WHAT DID YOU EAT TODAY?
