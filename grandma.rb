@@ -15,22 +15,22 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  if I LOVE YOU GRANDMA!
-    return "I LOVE YOU TOO PUMPKIN!"
+  if phrase == I LOVE YOU GRANDMA!
+    puts "I LOVE YOU TOO PUMPKIN!"
     
     elsif Hi Nana, how are you?
-    return "HUH?! SPEAK UP, SONNY!"
+    puts "HUH?! SPEAK UP, SONNY!"
     
     elsif Hi!
-    return "HUH?! SPEAK UP, SONNY!"
+    puts "HUH?! SPEAK UP, SONNY!"
     
     elsif WHAT DID YOU EAT TODAY?
-    return "NO, NOT SINCE 1938!"
+    puts "NO, NOT SINCE 1938!"
     
     elsif WHAT?
-    return "NO, NOT SINCE 1938!"
+    puts "NO, NOT SINCE 1938!"
     
   else
-    return "NO, NOT SINCE 1938!"
-    
+    puts "NO, NOT SINCE 1938!"
+  
   speak_to_grandma
