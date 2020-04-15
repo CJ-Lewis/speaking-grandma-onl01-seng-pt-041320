@@ -30,4 +30,5 @@ def speak_to_grandma
     elsif WHAT?
     puts "NO, NOT SINCE 1938!"
     
-    
+  else
+    puts "NO, NOT SINCE 1938!"
